@@ -8,6 +8,10 @@ MyMart is a landing page that allows users to order different types of food item
 
 This repository contains the HTML, CSS, and image files that make up the MyMart landing page.
 
+## Preview
+
+<img width="960" alt="Screenshot 2023-05-26 053442" src="https://github.com/KunalKhandekar/MyMart/assets/134169718/42d0c419-fdf7-4e3c-a3e3-438442c5a0c8">
+
 ## Usage
 
 To use the MyMart landing page, follow these steps:
