@@ -17,7 +17,7 @@ This repository contains the HTML, CSS, and image files that make up the MyMart 
 
 To use the MyMart landing page, follow these steps:
 
-Go to - https://kunalkhandekar.github.io/MyMart/
+Go to - https://mymart-practice.netlify.app/
 
 OR
 
